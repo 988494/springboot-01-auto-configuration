@@ -1,0 +1,4 @@
+spring:
+  my-servlet:
+    name: ${p1.name}
+    path: /hello
